@@ -12,7 +12,7 @@ It also includes **ADF (Amiga)** support, currently **experimental / in testing*
 
 ## 🖼️ Screenshot
 
-![FloppyForge Screenshot]([assets/screenshot.png](https://github.com/iz2rpn/FloppyForge/blob/main/assets/Screenshot.png))
+![FloppyForge Screenshot](assets/Screenshot.png)
 
 ---
 
